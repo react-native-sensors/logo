@@ -1,5 +1,7 @@
 # RN Sensors Logos
 
+Background color: `#f6612c`
+Text color: `#ffffff`
 
 ## Credits
 
