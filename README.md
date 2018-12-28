@@ -1,7 +1,10 @@
 # RN Sensors Logos
 
 Background color: `#f6612c`
+
 Text color: `#ffffff`
+
+Font: Raleway Medium
 
 ## Credits
 
